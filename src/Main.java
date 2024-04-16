@@ -9,5 +9,6 @@ public class Main {
         System.out.println("冲突2");
         System.out.println("冲突222");
         System.out.println("上传测试1");
+        System.out.println("拉取测试1");
     }
 }
